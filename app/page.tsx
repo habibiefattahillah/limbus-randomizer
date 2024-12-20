@@ -4,7 +4,6 @@ import limbusIds from "@/public/data/limbus-id";
 import {
   Table,
   TableBody,
-  TableCaption,
   TableCell,
   TableHead,
   TableHeader,
